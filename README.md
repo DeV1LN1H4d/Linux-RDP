@@ -3,7 +3,7 @@
 ## How To Get Free Linux RDP 
 
 
-1. Goto Link : https://cloud.google.com/shell 
+1. Go To Link : https://cloud.google.com/shell 
 
 2. Run Code : `docker run -p 6080:80 dorowu/ubuntu-desktop-lxde-vnc`
 
