@@ -6,8 +6,7 @@
 1. Go To Link : https://cloud.google.com/shell 
 
 2. Run Code : 
-```
-docker run -p 6080:80 dorowu/ubuntu-desktop-lxde-vnc
+```docker run -p 6080:80 dorowu/ubuntu-desktop-lxde-vnc
 ```
 
 3. Set Port To : `6080`
